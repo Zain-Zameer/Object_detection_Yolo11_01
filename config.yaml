@@ -1,0 +1,7 @@
+path: D:\YoloTutorial
+train: images/train
+val: images/train
+
+
+names:
+  0: alpaca
